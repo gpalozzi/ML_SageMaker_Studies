@@ -1,0 +1,7 @@
+# data
+
+data/
+data.zip
+
+# chache
+__pycache__/
