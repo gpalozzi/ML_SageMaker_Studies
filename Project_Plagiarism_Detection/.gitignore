@@ -2,6 +2,7 @@
 
 data/
 data.zip
+plagiarism_data/
 
 # chache
 __pycache__/
